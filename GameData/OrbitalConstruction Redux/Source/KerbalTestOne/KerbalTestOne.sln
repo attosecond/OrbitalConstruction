@@ -1,8 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-# SharpDevelop 4.3
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerbalTestOne", "KerbalTestOne\KerbalTestOne.csproj", "{4EF7462C-CBFB-4CC2-94F7-FF30832A977B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitalConstruction", "KerbalTestOne\OrbitalConstruction.csproj", "{4EF7462C-CBFB-4CC2-94F7-FF30832A977B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
